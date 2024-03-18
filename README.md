@@ -1,23 +1,21 @@
-#TODO List App
-This is a simple TODO List application built using HTML, CSS, and JavaScript.
+# TODO App
 
-##Features
-Add tasks to the list
-Mark tasks as completed
-Delete tasks
-Mark all tasks as completed
-Clear all tasks from the list
-##How to Use
-Clone this repository to your local machine.
-Open the index.html file in your web browser.
-Enter a task in the input field and press the "Add" button or hit Enter.
-To mark a task as completed, click on the checkbox next to it.
-To delete a task, click on the "Delete" button next to it.
-To mark all tasks as completed, click on the "All Completed" button.
-To clear all tasks from the list, click on the "Clear" button.
-##Files
-index.html: HTML file containing the structure of the application.
-style.css: CSS file containing the styles for the application.
-script.js: JavaScript file containing the logic for the application.
-##Demo
-You can view a live demo of the application here.
+This is a simple TODO list web application built with HTML, CSS, and JavaScript.
+
+## Features
+
+- Add tasks to the list
+- Mark tasks as completed
+- Delete tasks
+- Mark all tasks as completed
+- Clear all tasks
+
+## Usage
+1.Clone or download the repository to your local machine.
+2.Open the index.html file in your web browser.
+3.Use the input field to add new tasks.
+4.Click on the "Add" button or press Enter after typing the task to add it to the list.
+5.To mark a task as completed, click on the checkbox beside it.
+6.To delete a task, click on the "Delete" button beside it.
+7.Use the "All Completed" button to toggle completion status of all tasks.
+8.Use the "Clear" button to remove all tasks from the list.
