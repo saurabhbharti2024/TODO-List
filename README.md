@@ -15,7 +15,7 @@ This is a simple TODO list web application built with HTML, CSS, and JavaScript.
 - Clear all tasks
 - Use the "Clear" button to remove all tasks from the list.
 
-  ## Technologies Used
+## Technologies Used
 
 - HTML: Markup language for structuring the application.
 - CSS: Styling language for enhancing the appearance of the application.
@@ -32,17 +32,17 @@ Alternatively, you can [view the live demo here](https://saurabhbharti2024.githu
 
 ## Directory Structure
 
-stopwatch/
+TODO-List/
 
 ├── index.html
 
-├── stopwatch.css
+├── style.css
 
-└── stopwatch.js
+└── csript.js
 
 ## Credits
 
-This stopwatch application is created by [Saurabh Bharti].
+This TODO-List application is created by [Saurabh Bharti].
 
 If you have any questions or suggestions, feel free to contact me at [12vikesh12@email.com].
 
