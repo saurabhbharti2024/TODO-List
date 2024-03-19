@@ -38,11 +38,11 @@ TODO-List/
 
 ├── style.css
 
-└── csript.js
+└── script.js
 
 ## Credits
 
 This TODO-List application is created by [Saurabh Bharti].
 
-If you have any questions or suggestions, feel free to contact me at [12vikesh12@email.com].
+If you have any questions or suggestions, feel free to contact me at [12vikesh12@gmail.com].
 
